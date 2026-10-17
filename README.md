@@ -87,4 +87,4 @@ Inference UX (WebLLM engine load, quantization probe, Gemma user-turn prompting)
 
 ## Challenge
 
-Built for [Hacktoberfest Open-Source AI Challenge: Week 2 — Side Hustle](https://dev.to/challenges/hacktoberfest-week2-2026-10-12). See [SUBMISSION.md](SUBMISSION.md) for the DEV post draft.
+Built for [Hacktoberfest Open-Source AI Challenge: Week 2 — Side Hustle](https://dev.to/challenges/hacktoberfest-week2-2026-10-12).
